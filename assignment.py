@@ -16,11 +16,11 @@ def fizz_buzz(number):
     'FizzBuzz'
     """
 
-    if(not number % 3 and not number % 5):
+    if not number % 3 and not number % 5:
         return "FizzBuzz"
-    elif(not number % 5):
+    elif not number % 5:
         return "Buzz"
-    elif(not number % 3):
+    elif not number % 3:
         return "Fizz"
     else:
         return number
@@ -63,7 +63,7 @@ def count_vowels(string):
     count = 0
 
     for char in string:
-        if(char in "aeiou"):
+        if char in "aeiou":
             count += 1
 
     return count
@@ -86,7 +86,7 @@ def count_repeats(string):
     repeats = 0
 
     for char in string:
-        if(string.count(char) > 1):
+        if string.count(char) > 1:
             repeats += 1
 
     return repeats
