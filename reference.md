@@ -1,5 +1,8 @@
 # Reference
 
+- The Linux Command Line by William Shotts
+  - https://linuxcommand.org/
+  - Download the free book [here](https://linuxcommand.org/tlcl.php)
 - Official Python Documentation
   - https://docs.python.org/3/reference
 - W3 Schools Python Tutorials

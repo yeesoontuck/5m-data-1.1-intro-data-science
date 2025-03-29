@@ -2,9 +2,9 @@
 
 ## Brief
 
-### Preparation
+## Preparation
 
-#### Prerequisite knowledge for this program
+### Prerequisite knowledge for this program
 
 Familarity with Python programming language, at an intermediate level. At least an understanding of and ability to code the following concepts:
 
@@ -18,7 +18,7 @@ Familarity with Python programming language, at an intermediate level. At least 
 
 ### Lesson Overview
 
-This lesson contains a lot of installations. Learners should expect hiccups and some waiting time while instructor is troubleshooting issues for other learners.
+This lesson contains a lot of software installations. Learners should expect hiccups and some waiting time while instructor is troubleshooting issues for other learners. 
 
 ---
 
@@ -30,23 +30,25 @@ Conceptual knowledge, refer to slides.
 
 ## Part 2 - Introduction to data science toolbox
 
-### Install development tools
+To get started, we'll need to set up your environment with essential software applications that will allow you to run models and execute Python and SQL code.
 
-- Download and install git [here](https://git-scm.com/downloads)
-  - Git is a version control system that we will be using throughout this program, to manage our codes
-- Download and install miniconda [here](https://docs.conda.io/en/latest/miniconda.html)
-  - Conda is a package and environment manager that we will be using throughout this program, to manage our Python packages and environments
-- Download and install DBeaver Community [here](https://dbeaver.io/download/)
-  - DBeaver is a SQL client that we will be using throughout this program, to connect to databases and write SQL codes
-- Download and install vscode [here](https://code.visualstudio.com/download)
-  - VSCode is an IDE (Integrated Development Environment) that we will be using throughout this program, to write Python and SQL codes
+One key aspect of this course is learning to use the Command Line Interface (CLI). The CLI is a powerful tool that data scientists and engineers use to interact with their computers and execute commands efficiently. Instead of clicking through a graphical user interface (GUI), you'll be typing commands into a text terminal application.
 
-### Install the following vscode extensions
+![CLI image](./assets/linux_terminal.png)
 
-Go to the `Extensions` tab, search for the following extensions in the marketplace and install them:
+If you're new to the CLI, don't worry! While it might seem intimidating at first, using command-line tools will become second nature as you progress through the course. The CLI offers several advantages for data scientists:
 
-- Python
-- Jupyter
+- **Efficiency**: Executing commands quickly without navigating through menus
+- **Automation**: Easily scripting repetitive tasks
+- **Flexibility**: Accessing powerful tools and utilities
+
+To help you get started with the CLI, here are some excellent online resources and tutorials:
+
+- [Ubuntu CLI Tutorial](https://ubuntu.com/tutorials/command-line-for-beginners) - Linux command line for beginners from Ubuntu
+- [Learning the Linux Shell](https://linuxcommand.org/lc3_learning_the_shell.php) - Part 1 of a comprehensive guide to the world of Linux.
+- [Basic Linux Commands (video)](https://www.youtube.com/watch?v=7fs1i7TAMck) - One of the many, many Linux CLI tutorials you can find on YouTube
+
+### Please refer to the [installation](./installation.md) file to install the required applications for this module.
 
 ---
 

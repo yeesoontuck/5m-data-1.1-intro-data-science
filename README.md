@@ -4,6 +4,7 @@
 
 Refer to the following markdown file for the respective sections of the class:
 
+- [First-time Installation](./installation.md)
 - [Self Studies](./studies.md)
 - [Lesson](./lesson.md)
 - [Assignment](./assignment.md)
